@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customPermissions>
+        <enabled>true</enabled>
+        <name>Manage_Folders</name>
+    </customPermissions>
+    <description>Permission set for managing the Creation and Deletion of Folders in the Object Level Foldering System Component</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Manage Folders</label>
+</PermissionSet>

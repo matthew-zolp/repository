@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomPermission xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>This permission gives the recipient the ability to Create and Delete Folders in the Object Level Foldering System LWC.</description>
+    <label>Manage Folders</label>
+</CustomPermission>
